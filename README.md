@@ -51,7 +51,7 @@ int main() {
 
 
 ## Output:
-<img width="361" height="210" alt="image" src="https://github.com/user-attachments/assets/049f742f-8ea8-4d22-b406-5198e4b0158a" />
+<img width="397" height="205" alt="image" src="https://github.com/user-attachments/assets/7ab26c6e-aaf9-4fb7-9a8f-1ed4f4a1efa4" />
 
 
 
